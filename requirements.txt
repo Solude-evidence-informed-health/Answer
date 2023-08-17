@@ -1,0 +1,13 @@
+langchain
+openai
+pypdf
+tiktoken
+chromadb
+pycryptodome
+dash
+plotly
+pandas
+numpy
+pandasai
+tabulate
+dash_bootstrap_components
